@@ -22,8 +22,8 @@ It also features the Speech Synthesis Utterance API, a part of the Web Speech AP
 - **Responsive Design:** Enjoy a seamless learning experience across all devices, thanks to my responsive design.
 
 # Project Repositories Link
-- **[Frontend](https://github.com/Seyi-Toluhi/Lingo-voyage-frontend):**
-- **[Backend](https://github.com/Seyi-Toluhi/Lingo-voyage-backend):**
+- **[Frontend](https://github.com/Seyi-Toluhi/Lingo-voyage-frontend)**
+- **[Backend](https://github.com/Seyi-Toluhi/Lingo-voyage-backend)**
 
 # Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Node and Express for a dynamic and responsive user interface. 
