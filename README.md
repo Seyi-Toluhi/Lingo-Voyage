@@ -14,7 +14,7 @@ It also features the Speech Synthesis Utterance API, a part of the Web Speech AP
 - **[Frontend](https://github.com/Seyi-Toluhi/Lingo-voyage-frontend)**
 - **[Backend](https://github.com/Seyi-Toluhi/Lingo-voyage-backend)**
 
-- # Features
+# Features
 - **User Account Management:** Sign up to create your account stored on PostgreSQL database.
 - **User Authentication:** Securely sign up and log in with JSON Web Tokens for a personalized and secure learning experience.
 - **Language Selection:** Navigate through lingo voyage's language options to learn a specific language.
