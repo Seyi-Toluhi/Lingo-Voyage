@@ -10,7 +10,11 @@
 
 It also features the Speech Synthesis Utterance API, a part of the Web Speech API, which allows web applications to handle speech synthesis (text-to-speech). This lets users listen to the pronunciation of Spanish and Yoruba words to aid their learning.</p>
 
-# Features
+# Project Repository Links
+- **[Frontend](https://github.com/Seyi-Toluhi/Lingo-voyage-frontend)**
+- **[Backend](https://github.com/Seyi-Toluhi/Lingo-voyage-backend)**
+
+- # Features
 - **User Account Management:** Sign up to create your account stored on PostgreSQL database.
 - **User Authentication:** Securely sign up and log in with JSON Web Tokens for a personalized and secure learning experience.
 - **Language Selection:** Navigate through lingo voyage's language options to learn a specific language.
@@ -20,10 +24,6 @@ It also features the Speech Synthesis Utterance API, a part of the Web Speech AP
 - **Word Practice:** Listen to the pronunciation of a word in the language you are learning to aid your learning progress.
 - **Score Tracking:** View your score via experience points earned to track your learning progress.
 - **Responsive Design:** Enjoy a seamless learning experience across all devices, thanks to my responsive design.
-
-# Project Repository Links
-- **[Frontend](https://github.com/Seyi-Toluhi/Lingo-voyage-frontend)**
-- **[Backend](https://github.com/Seyi-Toluhi/Lingo-voyage-backend)**
 
 # Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Node and Express for a dynamic and responsive user interface. 
